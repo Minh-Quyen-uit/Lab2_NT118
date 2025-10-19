@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#22000000">   <!-- Màu hiệu ứng khi bấm -->
+
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="12dp" /> <!-- Bo góc -->
+            <stroke android:width="2dp" android:color="#888888" /> <!-- Viền -->
+        </shape>
+    </item>
+</ripple>
